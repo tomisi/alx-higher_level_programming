@@ -1,0 +1,1 @@
+This repository contains python projects from Holberton Software Engineering school. 
